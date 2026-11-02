@@ -168,6 +168,9 @@ Translate analytical findings into practical recommendations for inventory plann
 
 ## Dashboard & Visualization
 
+<img src="src/result.jpg" alt="Hasil Analisis" width="800">
+<br>
+
 The project uses Streamlit and Plotly to provide an interactive dashboard.
 
 Planned dashboard components:
